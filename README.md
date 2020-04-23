@@ -3,7 +3,7 @@
 # Mi Card
 
 <p align="center">
-  src="images/InterfazFinal.jpg">
+  <img src="images/InterfazFinal.jpg">
 </p>
 
 ![Interfaz Final](images/InterfazFinal.jpg)
