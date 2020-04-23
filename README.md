@@ -2,9 +2,7 @@
 
 # Mi Card
 
-<p align="center">
-  <img width="460" height="300" src="images/InterfazFinal.jpg">
-</p>
+<p align="center"> src="images/InterfazFinal.jpg"></p>
 
 ![Interfaz Final](images/InterfazFinal.jpg)
 
